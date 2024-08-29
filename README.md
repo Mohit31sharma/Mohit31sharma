@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit31sharma
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Fullstack
+- 👀 I’m interested in cloud-computing 
+- 🌱 I’m currently learning devops 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https : https://mohit31sharma.github.io/portfolio-website/ 
 <!---
